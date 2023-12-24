@@ -90,7 +90,12 @@ body {
   width: calc(50% - 10px); /* Set the width for two columns with 10px margin */
   min-height: 200px; /* Set a minimum height if needed */
   padding: 8px; /* Padding to maintain consistent appearance */
+  align-items: center;
+  justify-content: center;
+  display: flex; /* Add this line to enable flex container properties */
+  text-align: center; /* Center the text content horizontally */
 }
+
 
 #map {
   flex: 1;
@@ -140,10 +145,13 @@ body {
   background-color: #333;
   border-radius: 5px;
   margin-bottom: 10px;
-  width: 340px; /* Set the width for two columns with 10px margin */
+  width: 60%; /* Set the width for two columns with 10px margin */
+  max-width: 400px;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   justify-content: center;
 }
 
