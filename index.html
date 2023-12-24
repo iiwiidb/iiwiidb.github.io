@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Include Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+    <!-- Link to your custom styles.css -->
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Include the Google Font -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fragment+Mono&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="loading-screen">
+      <div class="loading-content">
+        <h1>IIWII-DB</h1>
+        <h3>Your home for car meet hosting</h3>
+      </div>
+    </div>
+    <div id="top-bar">
+      <div id="logo">IIWII-DB</div>
+    </div>
+
+    <div id="container">
+      <div id="meet-spot-list">
+        <ul id="meet-spots"></ul>
+      </div>
+      <div id="map"></div>
+    </div>
+
+    <!-- Include Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <!-- Include your custom JavaScript file -->
+    <script src="map.js"></script>
+  </body>
+</html>

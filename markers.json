@@ -1,0 +1,858 @@
+[
+  {
+    "name": "Two Floor Garage",
+    "location": [-58, -71],
+    "type": "garage",
+    "description": "Simple garage. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/twofloor.png"
+  },
+  {
+    "name": "Hotel Parking Lot",
+    "location": [-48, -53],
+    "type": "parking_lot",
+    "description": "Simple parking lot, NPC's can be a bit weird here. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/hotel.png"
+  },
+  {
+    "name": "Vineyard Parking Lot",
+    "location": [-5, -70],
+    "type": "parking_lot",
+    "description": "Simple parking lot, NPC's can spawn in cars. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/vineyard.png"
+  },
+  {
+    "name": "Little Seoul Mall Parking",
+    "location": [-68, -36],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/seoulmall.png"
+  },
+  {
+    "name": "University Parking Lot",
+    "location": [-52, -64],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/uni.png"
+  },
+  {
+    "name": "Paid Parking Spaces",
+    "location": [-68, -11],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/paidparking.png"
+  },
+  {
+    "name": "Elevated Parking",
+    "location": [-68, -14],
+    "type": "garage",
+    "description": "Simple garage. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/elevatedparking.png"
+  },
+  {
+    "name": "Dollar Pills LS",
+    "location": [-73, -13.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/pillscpt.png"
+  },
+  {
+    "name": "Mega Mall",
+    "location": [-74, -14],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/megamall.png"
+  },
+  {
+    "name": "East LS Garage",
+    "location": [-72.5, 19.5],
+    "type": "garage",
+    "description": "Simple garage. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/eastls.png"
+  },
+  {
+    "name": "Taco Restaurant",
+    "location": [-71, 14],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/taco.png"
+  },
+  {
+    "name": "Mirror Park Streets",
+    "location": [-62, 24],
+    "type": "street",
+    "description": "Simple street. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/mirror1.png"
+  },
+  {
+    "name": "Drive Through",
+    "location": [-59, 22],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 20 players.",
+    "capacity": "20",
+    "imagePath": "img/drivethrough.png"
+  },
+  {
+    "name": "LTD Mirror Park",
+    "location": [-58.5, 19],
+    "type": "gas_station",
+    "description": "Simple gas station. Max Capacity: 20 players.",
+    "capacity": "20",
+    "imagePath": "img/ltdmirror.png"
+  },
+  {
+    "name": "Mirror Park Market",
+    "location": [-57.7, 18],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 15 players.",
+    "capacity": "15",
+    "imagePath": "img/mirrormarket.png"
+  },
+  {
+    "name": "Horse Racing Parking Lot",
+    "location": [-48.5, 17],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/horselot.png"
+  },
+  {
+    "name": "Casino Parking Lot",
+    "location": [-54, 11],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Suitable for voting. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/casinolot.png"
+  },
+  {
+    "name": "Vinewood Bowl",
+    "location": [-41, 3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/bowl.png"
+  },
+  {
+    "name": "Vinewood Bowl (Small)",
+    "location": [-28, -9],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/smallbowl.png"
+  },
+  {
+    "name": "Church",
+    "location": [16, -24],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/church.png"
+  },
+  {
+    "name": "Biker Clubhouse",
+    "location": [17.3, -13.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/biker.png"
+  },
+  {
+    "name": "Sandy Shores Gas Station",
+    "location": [12.5, -7.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/ssgas.png"
+  },
+  {
+    "name": "Sandy Shores Dollar Pills",
+    "location": [16, 2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/sspills.png"
+  },
+  {
+    "name": "Sandy Shores Cafe",
+    "location": [14, 15],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/sscafe.png"
+  },
+  {
+    "name": "Yellowjack",
+    "location": [25, 43],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/yellowjack.png"
+  },
+  {
+    "name": "Scrapyard",
+    "location": [25, 54],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/scrapyard.png"
+  },
+  {
+    "name": "Sandy's Gas Station",
+    "location": [42, 43],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "25",
+    "imagePath": "img/sandysgasstation.png"
+  },
+  {
+    "name": "Motel parking lot",
+    "location": [38, 31.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/motellot.png"
+  },
+  {
+    "name": "Motel Tennis Court",
+    "location": [37, 29],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/moteltennis.png"
+  },
+  {
+    "name": "Lake Parking Lot",
+    "location": [41.4, 28],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/lakelot.png"
+  },
+  {
+    "name": "Liquor Store Parking Lot",
+    "location": [39, 11],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/liqourlot.png"
+  },
+  {
+    "name": "Dirt Roundabout",
+    "location": [35, -5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/dirtcircle.png"
+  },
+  {
+    "name": "Sandy Shores Parking Lot",
+    "location": [34, -5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/sandylot.png"
+  },
+  {
+    "name": "Trailer Park",
+    "location": [39.5, -13],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/trailerpark.png"
+  },
+  {
+    "name": "Wonderama Arcade",
+    "location": [60, 34],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/wonderama.png"
+  },
+  {
+    "name": "Alamo Fruit Market",
+    "location": [57, 37],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/fruitmarket.png"
+  },
+  {
+    "name": "LTD Grapeseed",
+    "location": [62, 34],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/ltdgrape.png"
+  },
+  {
+    "name": "YouTool",
+    "location": [35, 65],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/youtool.png"
+  },
+  {
+    "name": "Mini-Mart",
+    "location": [30, 63],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "25",
+    "imagePath": "img/minimart.png"
+  },
+  {
+    "name": "Humane Labs",
+    "location": [42, 88],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/humane.png"
+  },
+  {
+    "name": "Grapeseed Barn",
+    "location": [70, 50],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/barn.png"
+  },
+  {
+    "name": "24/7 Paleto Bay",
+    "location": [76.5, 35],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/247paleto.png"
+  },
+  {
+    "name": "Beekers Garage",
+    "location": [78, -10],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/beekers.png"
+  },
+  {
+    "name": "Willies Supermarket",
+    "location": [77.5, -17],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/willies.png"
+  },
+  {
+    "name": "Xero Gas Station",
+    "location": [76.5, -17.3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/xerogas.png"
+  },
+  {
+    "name": "Paleto Bay Bank",
+    "location": [76.8, -18.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/paletobank.png"
+  },
+  {
+    "name": "Paleto Motel",
+    "location": [76.8, -20],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/bowl.png"
+  },
+  {
+    "name": "QuickFix Parking Lot",
+    "location": [76.4, -21],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/fixparking.png"
+  },
+  {
+    "name": "Paleto Backstreets",
+    "location": [76.3, -17.2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/backstreets.png"
+  },
+  {
+    "name": "Cluckin' Bell Parking",
+    "location": [76.3, -13.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/bellfactory.png"
+  },
+  {
+    "name": "Abandoned Gas Station",
+    "location": [76, -17.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/abandonedgas.png"
+  },
+  {
+    "name": "Lift Parking Lot",
+    "location": [69.5, -37],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/liftparking.png"
+  },
+  {
+    "name": "Logging Station",
+    "location": [67, -32],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/logging.png"
+  },
+  {
+    "name": "Ending C Parking",
+    "location": [65, -60],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/endingc.png"
+  },
+  {
+    "name": "Chumash Gas Station",
+    "location": [4.5, -88],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/chumashgas.png"
+  },
+  {
+    "name": "Chumash Shops",
+    "location": [-30, -106],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/chumashshops.png"
+  },
+  {
+    "name": "Chumash Beach",
+    "location": [-29, -108],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/chumashbeach.png"
+  },
+  {
+    "name": "Pacific Sea Mall",
+    "location": [-51, -102],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/pacificmall.png"
+  },
+  {
+    "name": "Del Perro Parking",
+    "location": [-59.5, -77.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/perroparking.png"
+  },
+  {
+    "name": "Xero Del Perro",
+    "location": [-58.4, -75.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/xeroperro.png"
+  },
+  {
+    "name": "Beach Parking",
+    "location": [-60.5, -73.6],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/beachparking.png"
+  },
+  {
+    "name": "Beach House Parking",
+    "location": [-62.5, -68.6],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/beachhouseparking.png"
+  },
+  {
+    "name": "Beach Storage Parking",
+    "location": [-65, -61.3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/storageparking.png"
+  },
+  {
+    "name": "Pier Parking",
+    "location": [-66, -62.7],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/pierparking.png"
+  },
+  {
+    "name": "Pier",
+    "location": [-67.5, -60],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/pier.png"
+  },
+  {
+    "name": "Vespucci Parking 1",
+    "location": [-68.7, -53],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/vesp_parking1.png"
+  },
+  {
+    "name": "Vespucci Shops",
+    "location": [-72, -49.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/vespuccishops.png"
+  },
+  {
+    "name": "Vista Del Mar Parking",
+    "location": [-72.4, -44.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "6",
+    "imagePath": "img/vistadelmar.png"
+  },
+  {
+    "name": "Dock Parking 1",
+    "location": [-73, -42.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/dockparking1.png"
+  },
+  {
+    "name": "Dock Parking 2",
+    "location": [-72, -43],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/dockparking2.png"
+  },
+  {
+    "name": "Fish Restaurant Parking",
+    "location": [-71.5, -45.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/fishparking.png"
+  },
+  {
+    "name": "Little Seoul Parking",
+    "location": [-68.4, -35],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/seoulparking.png"
+  },
+  {
+    "name": "Sushi Restaurant Parking",
+    "location": [-69.3, -32.3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/sushiparking.png"
+  },
+  {
+    "name": "Xero Little Seoul",
+    "location": [-69.3, -30],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/xeroseoul.png"
+  },
+  {
+    "name": "Globe Gas Station",
+    "location": [-72, -24],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/globe.png"
+  },
+  {
+    "name": "Glass Heroes Car Repair",
+    "location": [-71, -21],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/heroesrepair.png"
+  },
+  {
+    "name": "B.J. Smith Parking",
+    "location": [-72, -21],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/smithparking.png"
+  },
+  {
+    "name": "Maze Bank Arena",
+    "location": [-76, -20.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/arenaupper.png"
+  },
+  {
+    "name": "Maze Bank Arena",
+    "location": [-77, -18],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/arenalower.png"
+  },
+  {
+    "name": "LSIA - Parking 1",
+    "location": [-77, -31],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp1.png"
+  },
+  {
+    "name": "LSIA - Parking 2",
+    "location": [-78.3, -32.3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp2.png"
+  },
+  {
+    "name": "LSIA - Parking 3",
+    "location": [-78.6, -37.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp3.png"
+  },
+  {
+    "name": "LSIA - Parking 4",
+    "location": [-77.8, -40.9],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp4.png"
+  },
+  {
+    "name": "LSIA - Parking 5",
+    "location": [-76, -36.5],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp5.png"
+  },
+  {
+    "name": "LSIA - Parking 6",
+    "location": [-76.8, -42.2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxp6.png"
+  },
+  {
+    "name": "LSIA - Backstage",
+    "location": [-77.3, -46.8],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/laxbs.png"
+  },
+  {
+    "name": "Docks - Parking 1",
+    "location": [-80.5, -24.7],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/docksp1.png"
+  },
+  {
+    "name": "Docks - Storage",
+    "location": [-80.1, -16.2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/docksstorage.png"
+  },
+  {
+    "name": "Docks - Workshop",
+    "location": [-80.1, -13.7],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/docksworkshop.png"
+  },
+  {
+    "name": "Walker Logistics",
+    "location": [-82.4, -10],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/walker.png"
+  },
+  {
+    "name": "Factory Parking",
+    "location": [-79, 14],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/factoryparking.png"
+  },
+  {
+    "name": "East LS Garages",
+    "location": [-73.5, 18.7],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/elsgarage.png"
+  },
+  {
+    "name": "Highway Parking",
+    "location": [-70, 27.6],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/highwayparking.png"
+  },
+  {
+    "name": "Lester's Factory",
+    "location": [-67, 6.6],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/lesterfac.png"
+  },
+  {
+    "name": "garagr Parking",
+    "location": [-66, 10],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/garageparking.png"
+  },
+  {
+    "name": "RON Gas Station",
+    "location": [-67.5, 9],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/ron.png"
+  },
+  {
+    "name": "Police Public Parking",
+    "location": [-70, 9.2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/police1.png"
+  },
+  {
+    "name": "Police Private Parking",
+    "location": [-70.6, 9.3],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/police2.png"
+  },
+  {
+    "name": "Hospital Parking",
+    "location": [-72.3, -7.7],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/hospital2.png"
+  },
+  {
+    "name": "RON - City",
+    "location": [-72.7, -9.8],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/roncity.png"
+  },
+  {
+    "name": "Bishop's",
+    "location": [-73.3, -10],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "15",
+    "imagePath": "img/bishops.png"
+  },
+  {
+    "name": "Ring of Fire",
+    "location": [-72, -10.1],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/ringoffire.png"
+  },
+  {
+    "name": "Shops",
+    "location": [-71.3, -12],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "10",
+    "imagePath": "img/cptshops.png"
+  },
+  {
+    "name": "Premium Deluxe",
+    "location": [-68.4, -16.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/premdelux.png"
+  },
+  {
+    "name": "Highway Parking 2",
+    "location": [-69, -2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/hwyparking2.png"
+  },
+  {
+    "name": "Covered Parking",
+    "location": [-68, -1.2],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "30",
+    "imagePath": "img/coveredparking.png"
+  },
+  {
+    "name": "Backlot Parking",
+    "location": [-47.6, -27.4],
+    "type": "parking_lot",
+    "description": "Simple parking lot. Max Capacity: 30 players.",
+    "capacity": "20",
+    "imagePath": "img/backlotparking.png"
+  }
+]
