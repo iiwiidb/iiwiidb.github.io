@@ -1,0 +1,60 @@
+/* styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Fragment Mono", monospace;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #222;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 10000;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  #top-bar {
+    background-color: #1e1e1e;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-family: "Fragment Mono", monospace;
+  }
+  
+  #logo {
+    font-style: italic;
+    font-size: 24px;
+  }
+
+  .title {
+    color:#fff;
+    text-align: center; /* Center text horizontally */
+    display: flex; /* Use flexbox for vertical centering */
+    align-items: center; /* Center text vertically */
+    justify-content: center;
+    height: 100vh; /* Set a height to ensure full vertical centering */
+    margin: 0; /* Remove default margin to avoid unwanted space */
+  }

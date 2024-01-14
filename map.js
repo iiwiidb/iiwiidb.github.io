@@ -57,6 +57,10 @@ L.control.layers(baseLayers).addTo(map);
 
 map.invalidateSize();
 
+
+
+
+
 // Load JSON data and create markers
 // Load JSON data and create markers
 fetch("markers.json")

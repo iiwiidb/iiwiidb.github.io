@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
     <!-- Link to your custom styles.css -->
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="random.css" />
 
     <!-- Include the Google Font -->
     <link
@@ -20,12 +20,6 @@
     />
   </head>
   <body>
-    <div id="loading-screen">
-      <div class="loading-content">
-        <h1>IIWII-DB</h1>
-        <h3>Your home for car meet hosting</h3>
-      </div>
-    </div>
     <div id="top-bar">
       <div id="logo" class="dropdown">
         IIWII-DB
@@ -36,18 +30,10 @@
         </div>
       </div>
     </div>
-
     <div id="container">
-      <div id="meet-spot-list">
-        <ul id="meet-spots"></ul>
+        <button id="randomButton">Generate Random Theme</button>
+        <p id="randomWordDisplay"></p>
       </div>
-      <div id="map"></div>
-    </div>
-
-    <!-- Include Leaflet JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
-    <!-- Include your custom JavaScript file -->
-    <script src="map.js"></script>
+      <script src="random.js"></script>
   </body>
 </html>
